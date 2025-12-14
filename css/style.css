@@ -955,10 +955,10 @@ svg {
     font-weight: 400;
 }
 .single_testimonial .pic{
-    width: 70px;
-    height: 70px; 
+    width: 12rem;
+    height: 12rem ;
     position: absolute;
-	top: -34px;
+	top: -50px;
 	left: 0;
     bottom: 0;
 	margin: 0 auto;
